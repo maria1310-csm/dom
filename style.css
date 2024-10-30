@@ -1,0 +1,36 @@
+#botao{
+    background-color: green;
+    color: white;
+    font-size: 50px;
+    border-radius: 15px;
+    margin-top: 30px;
+}
+
+#botaoTitulo{
+    background-color: green;
+    color: white;
+    font-size: 50px;
+    border-radius: 15px;
+    margin-top: 30px;
+}
+
+#botaoCor{
+    background-color: green;
+    color: white;
+    font-size: 50px;
+    border-radius: 15px;
+    margin-top: 30px;
+}
+
+#botaoAudio{
+    background-color: green;
+    color: white;
+    font-size: 50px;
+    border-radius: 15px;
+    margin-top: 30px;
+}
+
+.active{
+    background-color: white;
+    color: green;
+}
